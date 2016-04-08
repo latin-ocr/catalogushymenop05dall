@@ -1,0 +1,290 @@
+582
+
+leodocus 132.
+leogoras 132.
+leopardina 314.
+lepida 409.
+lepidotus 132.
+lepidum 497.
+
+lepidus 17, 39, 132,
+
+152 541
+lepreos 357.
+leprieuri 378.
+Leptacis 487.
+leptines 483.
+leptocera 474.
+
+leptocerus 299, 499.
+
+leptocorisae 498.
+leptogaster 132.
+leptogramma 208.
+Leptomastix 253.
+leptomera 200.
+leptoneurus 23, 39.
+Leptorhaptus 461.
+Leptorhopala 154.
+leptostictus 132.
+lesches 190.
+lestophoni 415.
+lethargicus 132.
+letus 195.
+
+leucarthros 62, 70,
+
+83.
+leucarthrus 70.
+
+leucaspidioidea 315.
+
+Leucaspis 405.
+leuce 133.
+leucippus 40.
+leucobates 79.
+Leucodesmia 76.
+leucogramma 79.
+leucon 190.
+1000000 2.
+leuconeura 554.
+
+leucophthalmus 17 2.
+
+Leucopsis 406.
+leucoptera 338.
+leucopterus 308.
+
+leucopus 30, 40, 49.
+
+leucopygus 133.
+Leucospidinae 404.
+
+leucospidioidea 315.
+Leucospis 404, 405.
+
+leucospoides 315.
+leucotelum 370.
+
+Regi ster.
+
+leucotelus 370, 412.
+leucotrophis 75.
+levana 79.
+lcviceps 465,
+517, 531.
+
+497,
+
+levicollis 212, 476.
+
+levifrons 50, 72, 355,
+465,507
+
+levigata 198.
+
+levigatus 74, 190.
+
+levipetiolatus 164.
+
+levis 79, 133, 355,
+507,523,526,550.
+
+leviscuta 75, 204, 234.
+
+leviscutellatus 517.
+
+levissimus 63.
+
+leviusculus 104, 106,
+504.
+
+leviventris 479.
+
+liberator 395.
+
+lichtensiae 251, 260.
+
+lichtensteinii 181,
+533.
+
+ligatus 462, 465.
+
+ligus 17.
+
+ligustica 409.
+
+Limacis 430.
+
+limbatus 133.
+
+lindus 238.
+
+lineare 348, 559.
+
+linearis 87, 96, 133,
+181,190,277,556,
+559.
+
+lineaticeps 53, 504.
+
+lineatifrons 54.
+
+lineatus 84.
+
+11001111 465, 507.
+
+lineola 260.
+
+lineolatus 133.
+
+lini 308.
+
+linnaei 520.
+
+linnei 520.
+
+lintneri 491.
+
+linus 40.
+
+Liocarus 265.
+
+liogaster 308.
+
+Lioterphus 295.
+
+Liothorax 254.
+
+liparae 133.
+
+liqueata 168.
+
+liqueatus 168.
+
+Lirata 367.
+
+liriope 260.
+lissonota 474.
+lissonotus 17, 474.
+lissos 133.
+
+lissus 294.
+litigiosa 207.
+
+Litomastix 242, 244.
+
+litoralis 429.
+littoralis 295.
+Litus 428.
+
+ljunghii 516.
+livens 221.
+
+livida 8, 48.
+lividieeps 48.
+
+lividus 8, 48, 159,
+
+308.
+lobata 378.
+Loboscelidia 431.
+
+Loboscelidoidea 431.
+
+Loehites 284.
+locustarum 221.
+loelianus 204.
+Lonchentedon 1.
+Lonchocerus 237.
+
+longepetiolatus 456.
+
+longestriolatus 479.
+
+longicauda 17, 101,
+104,308,309,317,
+
+485.
+longicaudata 279.
+
+longieaudatus 2, 14.
+longicaudis 310, 316.
+longicaudus 308, 309.
+
+longiceps 435, 465.
+longiclavata 517.
+
+longicollis 279, 551.
+longicorne 348, 448.
+longicornis 17, 56,
+133,134,154,204,
+2l3‚239‚249,253,
+33s‚397‚429,437,
+444, 447, 451, 454,
+465, 482, 496, 504,
+526, 530, 534, 541.
+
+longifica 279.
+longior 27.
+
+longipennis 221, 237,
+
+252,339‚459‚503.
+longipes 260, 316,
+488.
+
+longipetiola 378.
+longiramulis 328.
+longiscapus 17.
+longitarsis 466, 542.
+longiventris 40, 194,
+270‚272‚469,474,
+487,4883
+longiventrosus 40.
+longula 348, 426.
+longulum 350.
+longulus 63,133, 145.
+Lophocomus 70.
+Lophyrocera 364.
+lophyrorum 56, 57.
+Lopodytes 71.
+Loxotropa 431, 432,
+434,435,44ο.
+lucens 50, 63, 75, 216,
+464.
+lucetius 260.
+lucida 190.
+lucidus 133, 148, 190,
+541.
+
+. lucilla 133.
+
+lucumo 63.
+lugdunea 410.
+lugens 63, 133.
+luggeri 495.
+lugubri-133, 164,
+196, 389, 483.
+lunatus 40, 79, 235,
+240, 257, 545.
+luniger 91.
+lunula 133.
+lunulatus 225, 247.
+lupinicola 486.
+lutea 318.
+luteieolle 348.
+luteicollis 348.
+luteieornis 420.
+luteipennis 378, 403.
+luteipes 40, 169,
+517.
+luteogaster 367.
+luteola 224.
+lutescens 133.
+luteus 8, 221, 522.
+Lutnes 272.
+lutulentus 133.
+lyaeus 40.
+lycambes 40.
+
