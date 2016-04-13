@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catalogushymenop05dall/catalogushymenop05dall_0008.png"; bbox 0 0 2081 3382; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 179 1417 1992 1521">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 179 1417 1992 1521">
+     <span class='ocr_line' id='line_1_1' title="bbox 179 1417 1992 1468; baseline -0.002 -13"><span class='ocrx_word' id='word_1_1' title='bbox 179 1420 466 1468; x_wconf 77' lang='lat' dir='ltr'>Abgesehlossen</span> <span class='ocrx_word' id='word_1_2' title='bbox 495 1421 561 1455; x_wconf 81' lang='lat' dir='ltr'>mit</span> <span class='ocrx_word' id='word_1_3' title='bbox 584 1420 661 1455; x_wconf 92' lang='lat' dir='ltr'>Vol.</span> <span class='ocrx_word' id='word_1_4' title='bbox 688 1420 820 1454; x_wconf 90' lang='lat' dir='ltr'><strong>XXXI.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 847 1420 956 1463; x_wconf 86' lang='grc'>(1894)</span> <span class='ocrx_word' id='word_1_6' title='bbox 989 1419 1050 1454; x_wconf 81' lang='lat' dir='ltr'>des</span> <span class='ocrx_word' id='word_1_7' title='bbox 1074 1419 1278 1465; x_wconf 80' lang='lat' dir='ltr'>Zoological</span> <span class='ocrx_word' id='word_1_8' title='bbox 1303 1418 1442 1453; x_wconf 85' lang='lat' dir='ltr'>Record</span> <span class='ocrx_word' id='word_1_9' title='bbox 1473 1418 1547 1452; x_wconf 91' lang='lat' dir='ltr'>und</span> <span class='ocrx_word' id='word_1_10' title='bbox 1576 1417 1694 1463; x_wconf 82' lang='lat' dir='ltr'>Jahrg.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1720 1418 1855 1453; x_wconf 92' lang='lat' dir='ltr'><strong>XVIII.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1883 1419 1992 1459; x_wconf 84' lang='lat'>(1895)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 802 1476 1369 1521; baseline -0.002 -10"><span class='ocrx_word' id='word_1_13' title='bbox 802 1477 863 1511; x_wconf 82' lang='lat' dir='ltr'>des</span> <span class='ocrx_word' id='word_1_14' title='bbox 887 1476 1143 1521; x_wconf 82' lang='lat' dir='ltr'>Zoologisehen</span> <span class='ocrx_word' id='word_1_15' title='bbox 1169 1476 1369 1521; x_wconf 81' lang='lat' dir='ltr'>Anzeigers.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
